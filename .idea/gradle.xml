@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/A line that throws an exception" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Calculate Square" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Determine an exception" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Is the code fully protected" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/When an exception occurs" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Where an exception occurs" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Choose a return type" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Division" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Greatest common divisor" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Method signature" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Syntactically correct declarations" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/The sign of a number" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE with strings" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Where NPE might occur" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Check the code" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
